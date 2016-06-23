@@ -1,0 +1,21 @@
+IRI Prediction Contest
+
+With all the IRI prediction and speculation each year, I decided it was time we quantify these predictions and determine who really got it most right. 
+
+SUBMISSION
+Modified the attached .csv file in either a text or spreadsheet editor, inputting your CD username, alliance selection results using IRI's 1-8, 1-8, 8-1 draft order, and W/F/SF/QF next to each alliance to indicate playoff finish. Attach your modified CSV file in this thread or PM me it. There is a limit of one submission per person. In the event multiple submissions are made, only the most recent will be accepted.
+
+Submissions received after 11:59 PM EST on July 13 will not be considered.
+
+SCORING
+Players will be scored using the district points they earn for alliance selection and playoff finish. Players will earn all these district points for each team in their prediction, up to the amount they predict them to earn. A 10-point bonus is applied for each correct partnership predicted.
+
+Example: team A is predicted to captain the first alliance and win the event (16 + 30 points). Team A captains the first alliance and finishes as a finalist, so the player earns 16 points for alliance selection and 20 for playoff results, totalling 36 points.
+Example: team A is predicted to captain the second alliance and win the event (15 + 30 points). Team A captains the first alliance and finishes as a winner, so they earn 15 points (because 16 exceeds the predicted 15) for alliance selection and 30 for playoff results, totalling 45 points.
+Example: teams A and B are predicted to play on the same alliance, and teams A and B play on the same alliance. The player receives a 10 point bonus for correctly predicting the partnership of teams A and B.
+Example: teams A, B, and C are predicted to play on the same alliance, and teams A, B, and C play on the same alliance. The player receives a 30 point bonus for correctly predicting the partnership of teams A and B, teams A and C, and teams B and C.
+
+Excluding partnership bonuses, a maximum of 446 points may be earned on a prediction.
+
+PRIZE
+Currently, the only prize is bragging rights. If there's enough interest in this contest, I may throw in a gift card for the winner.
